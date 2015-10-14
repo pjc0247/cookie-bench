@@ -2,7 +2,7 @@ cookie-bench
 ====
 cookie-bench is a web browser benchmark program using the 'Cookie-Clicker' game. It just clicks the cookie repeatedly using javascript's infinite loop while specified duration.
 When the evaluation time ends up, program counts the total clicks and calculates how many clicks occurred in a single second(CpS).
-<br>
+<br><br>
 ![t1](img/clicks.png)<br>
 ![t2](img/clicks_ipad.png)<br>
 
