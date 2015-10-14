@@ -14,7 +14,8 @@ How To Run Test
 ----
 * __PC__
   * Click the link above.
-  * Drag the 'cookie-bench' text to bookmarks bar.
+  * Drag the 'cookie-bench' text to bookmarks bar.<br>
+    ![t3](img/ddrop.png)
   * Visit [CookieClicker](http://orteil.dashnet.org/cookieclicker/) and click the bookmark which you added.
   * Wait for a few seconds and the test results will be shown on your browser.
 * __iOS__
