@@ -4,7 +4,7 @@ cookie-bench is a web browser benchmark program using the 'Cookie-Clicker' game.
 When the evaluation time ends up, program counts the total clicks and calculates how many clicks occurred in a single second(CpS).
 <br>
 ![t1](img/clicks.png)<br>
-![t1](img/clicks_ios.png)<br>
+![t2](img/clicks_ipad.png)<br>
 
 Script (Hosted)
 ----
