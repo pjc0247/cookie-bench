@@ -33,4 +33,4 @@ My Results
 Remakrs
 ----
 * This test is made for your funny. Do not be serious on the score you got.
-* The result may depend on your browser's minimun interval policy of `setInterval` method. So it doesn't mean an actual performances.
+* The result may depend on your browser's minimun interval policy of `setInterval` method. So it doesn't mean an actual performance.
