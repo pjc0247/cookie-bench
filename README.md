@@ -25,12 +25,12 @@ My Results
 ----
 |Env     | CpS |
 |----|----|
-|PC with Chrome | 220 |
+|PC with Chrome | 230 |
 |PC with IE11   | 95 |
-|iPad Mini 4 with Chrome | 125 |
+|iPad Mini 4 with Chrome | 140 |
 
 
-Remakrs
+Remarks
 ----
 * This test is made for your funny. Do not be serious on the score you got.
 * The result may depend on your browser's minimun interval policy of `setInterval` method. So it doesn't mean an actual performance.
