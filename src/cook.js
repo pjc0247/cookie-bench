@@ -18,7 +18,7 @@ var looper = setInterval(function(){
 		var cps = total / (elapsed / 1000);
 
 		alert(
-			"Your brower have reached total " + total + "clicks in " + elapsed + "millisecond. \n" +
+			"Your brower has reached total " + total + "clicks in " + elapsed + "millisecond. \n" +
 			"CpS : " + Math.round(cps));
 	}
 }, 0);
